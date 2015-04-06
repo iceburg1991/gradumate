@@ -1,0 +1,1 @@
+Systeem ontwikkeld door team 4 van de opleiding Information Engineering voor de Hogeschool Utrecht. Het systeem is bedoeld om het afstudeer proces voor zowel de afstudeercommissie, studenten en overige betrokkenen te versimpelen en te ondersteunen.
